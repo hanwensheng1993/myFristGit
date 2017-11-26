@@ -1,0 +1,7 @@
+$ git init
+$ git config --global user.name 'hws'
+$ git config --global user.email '13854277792@126.com'
+$ git add index.html
+$ git status
+$ git rm -r --cached WEB-INF/
+$ git commit
