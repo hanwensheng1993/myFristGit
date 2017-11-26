@@ -5,3 +5,5 @@ $ git add index.html
 $ git status
 $ git rm -r --cached WEB-INF/
 $ git commit
+$ git commit -m 'update commends'
+$ touch .gitignore
